@@ -1,10 +1,10 @@
-# Book Template
+# Hints on Child-Training
 
-## Warhorn Classics
+## Henry Clay Trumbull
 
-## 2020
+## 1890
 
-This book is a template for starting new Warhorn Classics book projects. It also contains some brief instructions for how to get started.
+NEED TO ADD A DESCRIPTION HERE
 
 Available for your reading pleasure here:
-https://warhornmedia.github.io/warhorn-classics-book-template
+FIX ME
