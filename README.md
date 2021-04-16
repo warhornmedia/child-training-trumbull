@@ -6,5 +6,4 @@
 
 NEED TO ADD A DESCRIPTION HERE
 
-Available for your reading pleasure here:
-FIX ME
+Available for your reading pleasure here: https://warhornmedia.github.io/child-training-trumbull/

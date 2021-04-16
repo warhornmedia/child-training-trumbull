@@ -7,7 +7,7 @@ params:
   scans: "https://archive.org/details/hintsonchildtrai00trum"
   build: "1"
 cover-image: "cover.jpg"
-url: "https://warhornmedia.github.io/YO!!/"
+url: "https://warhornmedia.github.io/child-training-trumbull/"
 output: 
   bookdown::gitbook:
     config:
