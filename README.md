@@ -6,8 +6,6 @@
 
 NEED TO ADD A DESCRIPTION HERE
 
-Available for your reading pleasure here: https://warhornmedia.github.io/child-training-trumbull/
-
 ~~1. Preface~~
 ~~2. Chapter 1~~
 3. Chapter 2
@@ -39,3 +37,7 @@ Available for your reading pleasure here: https://warhornmedia.github.io/child-t
 5. Chapter 28
 5. Chapter 29
 5. Chapter 30
+
+=======
+
+Available for your reading pleasure here: https://warhornmedia.github.io/trumbull-child-training/
