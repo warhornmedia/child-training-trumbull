@@ -6,8 +6,8 @@
 
 NEED TO ADD A DESCRIPTION HERE
 
-~~1. Preface~~
-~~2. Chapter 1~~
+1. ~~Preface~~
+2. ~~Chapter 1~~
 3. Chapter 2
 4. Chapter 3
 5. Chapter 4
