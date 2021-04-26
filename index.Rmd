@@ -4,6 +4,7 @@ author: "Henry Clay Trumbull"
 date: "1890"
 description: "THIS SHOULD BE FIXED!"
 params:
+  pubinfo: "Originally published as “This Is An Empty Book” in *Warhorn Classics Anthology* (Bayly, McNeilly, Weeks, et al, 2020), 219–283."
   scans: "https://archive.org/details/hintsonchildtrai00trum"
   build: "1"
 cover-image: "cover.jpg"
@@ -14,10 +15,9 @@ output:
       toc:
         scroll_highlight: yes
         before: |
-          <li><a href="https://www.warhornmedia.com/"><img src="classics-template-files/images/warhornlogo.png" width="260"></a></li>
+          <li><a href="https://classics.warhornmedia.com/"><img src="classics-template-files/images/warhornlogo.png" width="260"></a></li>
           <li><a href="./">Hints on Child-Training — Henry Clay Trumbull</a></li>
         after: |
-          <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       edit: https://github.com/warhornmedia/child-training-trumbull/edit/master/%s
 documentclass: book
 always_allow_html: yes
