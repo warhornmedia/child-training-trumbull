@@ -8,7 +8,7 @@ params:
   scans: "https://archive.org/details/hintsonchildtrai00trum"
   build: "1"
 cover-image: "cover.jpg"
-url: "https://warhornmedia.github.io/child-training-trumbull/"
+url: "https://warhornmedia.github.io/trumbull-child-training/"
 output: 
   bookdown::gitbook:
     config:
@@ -18,7 +18,7 @@ output:
           <li><a href="https://classics.warhornmedia.com/"><img src="classics-template-files/images/warhornlogo.png" width="260"></a></li>
           <li><a href="./">Hints on Child-Training — Henry Clay Trumbull</a></li>
         after: |
-      edit: https://github.com/warhornmedia/child-training-trumbull/edit/master/%s
+      edit: https://github.com/warhornmedia/trumbull-child-training/edit/master/%s
 documentclass: book
 always_allow_html: yes
 site: bookdown::bookdown_site
