@@ -4,7 +4,7 @@ author: "Henry Clay Trumbull"
 date: "1890"
 description: "THIS SHOULD BE FIXED!"
 params:
-  pubinfo: "Originally published as "Hints on Child-Training", by H. Clay Trumbull, 1891."
+  pubinfo: "Originally published as 'Hints on Child-Training', by H. Clay Trumbull, 1891."
   scans: "https://archive.org/details/hintsonchildtrai00trum"
   build: "1"
 cover-image: "cover.jpg"
