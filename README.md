@@ -17,9 +17,9 @@ NEED TO ADD A DESCRIPTION HERE
 5. ~~Chapter 8~~
 5. ~~Chapter 9~~
 5. ~~Chapter 10~~
-5. Chapter 11
-5. Chapter 12
-5. Chapter 13
+5. ~~Chapter 11~~
+5. ~~Chapter 12~~
+5. ~~Chapter 13~~
 5. Chapter 14
 5. Chapter 15
 5. Chapter 16
