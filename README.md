@@ -26,9 +26,9 @@ NEED TO ADD A DESCRIPTION HERE
 18. ~~Chapter 17~~
 19. ~~Chapter 18~~
 20. ~~Chapter 19~~
-21. Chapter 20
-22. Chapter 21
-23. Chapter 22
+21. ~~Chapter 20~~
+22. ~~Chapter 21~~
+23. ~~Chapter 22~~
 24. Chapter 23
 25. Chapter 24
 26. Chapter 25
