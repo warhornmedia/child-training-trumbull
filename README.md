@@ -29,7 +29,7 @@ NEED TO ADD A DESCRIPTION HERE
 21. ~~Chapter 20~~
 22. ~~Chapter 21~~
 23. ~~Chapter 22~~
-24. Chapter 23
+24. ~~Chapter 23~~
 25. Chapter 24
 26. Chapter 25
 27. Chapter 26
