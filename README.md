@@ -32,9 +32,9 @@ NEED TO ADD A DESCRIPTION HERE
 24. ~~Chapter 23~~
 25. ~~Chapter 24~~
 26. ~~Chapter 25~~
-27. Chapter 26
-28. Chapter 27
-29. Chapter 28
+27. ~~Chapter 26~~
+28. ~~Chapter 27~~
+29. ~~Chapter 28~~
 30. Chapter 29
 31. Chapter 30
 
