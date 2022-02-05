@@ -4,7 +4,8 @@
 
 ## 1890
 
-NEED TO ADD A DESCRIPTION HERE
+Henry Trumbull has written a very practical, accessible book to help parents as they raise their children. Each brief chapter touches on a particular topic, and though the language is a bit antiquated, they are all thought-provoking and helpful.
+
 
 =======
 
